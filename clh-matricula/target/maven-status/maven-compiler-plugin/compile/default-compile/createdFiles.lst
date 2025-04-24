@@ -1,0 +1,13 @@
+org\example\rdcmmatricula\MsPedidoApplication.class
+org\example\rdcmmatricula\dato\Cliente.class
+org\example\rdcmmatricula\config\OpenAPIConfig.class
+org\example\rdcmmatricula\feing\ClienteFeing.class
+org\example\rdcmmatricula\dato\Categoria.class
+org\example\rdcmmatricula\feing\ProductoFeing.class
+org\example\rdcmmatricula\entity\PedidoDetalle.class
+org\example\rdcmmatricula\service\PedidoService.class
+org\example\rdcmmatricula\dato\Producto.class
+org\example\rdcmmatricula\entity\Pedido.class
+org\example\rdcmmatricula\controller\PedidoController.class
+org\example\rdcmmatricula\repository\PedidoRepository.class
+org\example\rdcmmatricula\service\impl\PedidoServiceImpl.class
